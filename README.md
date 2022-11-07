@@ -1,2 +1,2 @@
 # Dialogflow-webhook
-simmple CRUD dialogflow webhook with mysql
+simple CRUD dialogflow webhook with mysql
